@@ -1,1 +1,1 @@
-This is v1 of the submodule
+This is v2 of the submodule

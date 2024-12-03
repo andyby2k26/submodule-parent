@@ -1,4 +1,6 @@
 version: 2
 updates:
-  - package-ecosystem: "githubsubmodule"
+  - package-ecosystem: "gitsubmodule"
     directory: "/example-submodule/"
+    schedule:
+      interval: daily
